@@ -1,24 +1,29 @@
 # eribbit-client-pc-124
 
-## Project setup
+## 项目设置
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 开发阶段编译和热重新加载
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 生产进行编译和打包
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### 测试和修复文件
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 自定义配置
+See [配置引用](https://cli.vuejs.org/config/).
+
+### 文档查看
+See [配置引用](git remote add origin https://github.com/yaobenyou/vue3-erabbit-client-shop/docs/guide/docs).
+
+
